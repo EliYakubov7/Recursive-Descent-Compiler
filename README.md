@@ -21,7 +21,7 @@ The compiler was written in C programming language with an Visual Studio environ
 <img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/syntactic_analyzer.png" width="250">  
 
 ## Semantic Analyzer
-<img src=https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/semantic_analyzer1.png" width="250">  
+<img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/semantic_analyzer1.png" width="250">  
 <img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/semantic_analyzer2.png" width="250">  
 
 ## Authors
