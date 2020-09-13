@@ -4,9 +4,9 @@ This Project is a Recursive Descent compiler that combines Lexical, Syntactic an
 
 In order for us to use Recursive Descent method, a number of preparations for the original language were required:
 
-- Left factoring
+- Left Factoring
 
-- Left recursion
+- Left Recursion
 
 - Nullable, First & Follow Table
 
@@ -15,14 +15,14 @@ The compiler was written in C programming language with an Visual Studio environ
 ### Screenshots
 
 ## Lexical Analyzer
-<img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/lexical_analyzer.png" width="250">  
+<img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/lexical_analyzer.png">  
 
 ## Syntactic Analyzer
-<img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/syntactic_analyzer.png" width="250">  
+<img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/syntactic_analyzer.png">  
 
 ## Semantic Analyzer
-<img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/semantic_analyzer1.png" width="250">  
-<img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/semantic_analyzer2.png" width="250">  
+<img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/semantic_analyzer1.png">  
+<img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/semantic_analyzer2.png">  
 
 ## Authors
 
