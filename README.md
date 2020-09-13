@@ -14,7 +14,7 @@ The compiler was written in C programming language with an Visual Studio environ
 
 ## Screenshots
 
-### Lexical Analyzer
+#### Lexical Analyzer
 <img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/lexical_analyzer.png">  
 
 ### Syntactic Analyzer
@@ -24,6 +24,6 @@ The compiler was written in C programming language with an Visual Studio environ
 <img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/semantic_analyzer1.png">  
 <img src="https://github.com/EliYakubov7/Recursive-Descent-Compiler/blob/master/screenshots/semantic_analyzer2.png">  
 
-### Authors
+## Authors
 
 * **Eliyahu Yakubov** - *Initial work* - [Github](https://github.com/EliYakubov7), [Linkedin](https://www.linkedin.com/in/eli-yakubov-961908173)
